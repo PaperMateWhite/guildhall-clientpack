@@ -1,12 +1,12 @@
 name = "Guild Hall ATM10"
 author = "Parker"
-version = "0.2-prism"
+version = "0.3-prism"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fdb9eaea269ce3e5e4d813dfe090545cbde7677392dc04f68d05441ee774127a"
+hash = "ee1b34f0d17140ab30312103a516c90208c09c361ff956c69d36d088513ce528"
 
 [versions]
 minecraft = "1.21.1"
