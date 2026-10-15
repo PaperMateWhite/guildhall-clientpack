@@ -1,0 +1,13 @@
+name = "Guild Hall ATM10"
+author = "Parker"
+version = "0.2-prism"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "17e6338d7e5b2bd789360fd7c7d090410a693be4f9582111fb3353eef912587e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"
